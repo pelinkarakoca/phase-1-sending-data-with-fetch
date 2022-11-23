@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,40 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +53,173 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 1
+    },
+    {
+      "name": "pelin",
+      "email": "anil",
+      "id": 2
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "pelin",
+      "email": "karakocapelin@gmail.com",
+      "id": 32
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
